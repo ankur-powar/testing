@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hello line 7.
-=======
-Hello line 6.
->>>>>>> 2925593d4c138f79f695d78cc3edec710d870814
+Hello line 16.
